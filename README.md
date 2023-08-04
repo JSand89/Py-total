@@ -1,1 +1,3 @@
 # Py-total
+## print y input
+Ejercicio sencillo para entender como funcionan estas funciones, la idea es crear con dos preguntas algun nombre de preferencia divertido. Ej: Villano, Super Heroe...
